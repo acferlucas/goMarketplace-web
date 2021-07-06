@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "title": "Camisa eComerce modelo:01",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 55
+    },
+    {
+      "id": "1234",
+      "title": "Camisa eComerce modelo:02",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 65
+    },
+    {
+      "id": "12345",
+      "title": "Camisa eComerce modelo:03",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 70
+    },
+    {
+      "id": "123456",
+      "title": "Camisa eComerce modelo:04",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 75
+    },
+    {
+      "id": "1234567",
+      "title": "Camisa eComerce modelo:05",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 80
+    },
+    {
+      "id": "12345678",
+      "title": "Camisa eComerce modelo:06",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 50
+    },
+    {
+      "id": "123456789",
+      "title": "Camisa eComerce modelo:07",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 80
+    },
+    {
+      "id": "1234567890",
+      "title": "Camisa eComerce modelo:08",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    },
+    {
+      "id": "1212127890",
+      "title": "Camisa eComerce modelo:09",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    },
+    {
+      "id": "123453213a67890",
+      "title": "Camisa eComerce modelo:10",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    },
+    {
+      "id": "s34567890",
+      "title": "Camisa eComerce modelo:11",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    },
+    {
+      "id": "s345ssdd67890",
+      "title": "Camisa eComerce modelo:11",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    },
+    {
+      "id": "s34567sss890",
+      "title": "Camisa eComerce modelo:11",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    },
+    {
+      "id": "s3456ss7890",
+      "title": "Camisa eComerce modelo:11",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 170
+    }
+    ]
+}
