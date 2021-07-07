@@ -15,6 +15,6 @@ O projeto consiste em um eComerce tradicional com uma tela com produtos e um car
 
 # Tecnologias utilizadas
 ## Front end
-- React(useContext)
+- Next js
 - Fake API utilizando json-server
 
